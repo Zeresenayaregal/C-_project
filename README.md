@@ -1,7 +1,6 @@
 # Tic-Tac-Toe-using-C-Graphics
 A simple game Tic Tac Toe, made using C/C++ Graphics.
 It is just made Just for fun.
-You can Play the the web-version of the game working on the same logic [here!](https://shivam010.github.io/TicTacToe/).
 If you like it please give a star. ;p 
 
 # How to Run locally
@@ -23,6 +22,3 @@ And Enjoy.
 
 # Contributing
 Changes and improvements are more than welcome! Feel free to fork and open a pull request. Please make your changes in a specific branch and request to pull into master! If you can, please make sure the game fully works before sending the PR, as that will help speed up the process.
-
-# License
-Tic Tac Toe is licensed under the [MIT license.](https://github.com/Shivam010/Tic-Tac-Toe-using-C-Graphics/blob/master/LICENSE)
